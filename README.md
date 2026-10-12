@@ -6,6 +6,11 @@ I’m RRA. Here I tell the story of developing my own ERP, specialized workspace
 
 I wanted to cover gaps in the warehouse, where manual controls were no longer enough. A solution built with GPT’s help began developing into an ERP. The [first entry](posts/001-why-my-own-erp.en.md) tells that story based on my recollections. The exact starting date has not been reconstructed; implementation is still underway. Separately documented development milestones follow below.
 
+## Published entries
+
+- [001 — Why I started building my own ERP](posts/001-why-my-own-erp.en.md) — published 6 October 2026 (Asia/Shanghai).
+- [002 — Preparing a warehouse check before connecting real inventory records](posts/002-before-real-integration.en.md) — published 13 October 2026 (Asia/Shanghai).
+
 ## Documented milestones
 
 These are event dates in 2026, not journal publication dates. The chronology draws on saved reports and evidence. No fresh check of the operational services was performed for this journal; continuous operation between milestones has not been confirmed. The earliest milestone found does not establish when development began.
