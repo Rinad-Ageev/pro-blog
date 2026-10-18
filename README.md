@@ -10,6 +10,7 @@ I wanted to cover gaps in the warehouse, where manual controls were no longer en
 
 - [001 — Why I started building my own ERP](posts/001-why-my-own-erp.en.md) — published 6 October 2026 (Asia/Shanghai).
 - [002 — Preparing a warehouse check before connecting real inventory records](posts/002-before-real-integration.en.md) — published 13 October 2026 (Asia/Shanghai).
+- [003 — A catalog on screen and a request in the system: what lies between them?](posts/003-catalog-and-draft.en.md) — planned for 19 October 2026 (Asia/Shanghai).
 
 ## Documented milestones
 
