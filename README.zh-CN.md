@@ -11,6 +11,7 @@
 - [001 — 我为什么开始开发自己的 ERP](posts/001-why-my-own-erp.zh-CN.md) — 发布日期：2026年10月6日（Asia/Shanghai）。
 - [002 — 接入真实库存账目之前，如何准备仓库场景检查](posts/002-before-real-integration.zh-CN.md) — 发布日期：2026年10月13日（Asia/Shanghai）。
 - [003 — 屏幕上的目录与系统里的申请之间，还差什么？](posts/003-catalog-and-draft.zh-CN.md) — 计划于2026年10月19日发布（Asia/Shanghai）。
+- [004 — 系统已安装，业务流程就验收了吗？](posts/004-installation-and-session-checks.zh-CN.md) — 计划发布日期：2026年10月22日（Asia/Shanghai）。
 
 ## 有记录支持的里程碑
 
