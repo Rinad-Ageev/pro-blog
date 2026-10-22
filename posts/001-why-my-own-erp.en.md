@@ -1,5 +1,9 @@
 # Why I started building my own ERP
 
+![A desk beside warehouse shelves and symbolic modules of an expanding tool.](../assets/images/cover-001-v1.png)
+
+*Conceptual AI illustration, not a screenshot of a running system.*
+
 A retrospective based on my recollections. The exact starting date has not been reconstructed; publication date: 6 October 2026 (Asia/Shanghai).
 
 I wanted to build a temporary stopgap for the warehouse. It began growing into my own ERP — a system for managing resources and operations.

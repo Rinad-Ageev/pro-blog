@@ -1,5 +1,9 @@
 # The system is installed. Has the workflow been accepted?
 
+![A server block on a document stands apart from a box, a blank clipboard, and a hand: installation and workflow acceptance need distinct evidence.](../assets/images/cover-004-v1.png)
+
+*Conceptual AI illustration, not a screenshot of a running system.*
+
 A retrospective of events on 25 and 27 September 2026. The dates refer to separate historical results. Planned publication date of this entry: 22 October 2026 (Asia/Shanghai); this is a plan, not a record of publication.
 
 ## The problem

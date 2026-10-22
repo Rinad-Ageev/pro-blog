@@ -1,5 +1,9 @@
 # A catalog on screen and a request in the system: what lies between them?
 
+![A card with a clock, a sheet above an empty tray, and a key beside a divider represent separate questions of data, storage, and access.](../assets/images/cover-003-v1.png)
+
+*Conceptual AI illustration, not a screenshot of a running system.*
+
 A retrospective of events on 18 and 20 September 2026. These are not development starting dates. Planned publication date: 19 October 2026 (Asia/Shanghai).
 
 ## The problem

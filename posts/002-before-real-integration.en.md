@@ -1,5 +1,9 @@
 # Preparing a warehouse check before connecting real inventory records
 
+![A tray of sample boxes and a blank card stands apart from warehouse shelves.](../assets/images/cover-002-v1.png)
+
+*Conceptual AI illustration, not a screenshot of a running system.*
+
 Retrospective: the training package was assembled on 22 August 2026. This is not the established starting date of the ERP. Publication date: 13 October 2026 (Asia/Shanghai).
 
 ## The problem
