@@ -12,6 +12,7 @@ I wanted to cover gaps in the warehouse, where manual controls were no longer en
 - [002 — Preparing a warehouse check before connecting real inventory records](posts/002-before-real-integration.en.md) — published 13 October 2026 (Asia/Shanghai).
 - [003 — A catalog on screen and a request in the system: what lies between them?](posts/003-catalog-and-draft.en.md) — planned for 19 October 2026 (Asia/Shanghai).
 - [004 — The system is installed. Has the workflow been accepted?](posts/004-installation-and-session-checks.en.md) — planned for 22 October 2026 (Asia/Shanghai).
+- [005 — A closed pilot: what is known, and what still needs checking](posts/005-closed-pilot-and-report-limits.en.md) — planned for 25 October 2026 (Asia/Shanghai).
 
 ## Documented milestones
 
