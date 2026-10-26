@@ -13,6 +13,7 @@
 - [003 — 屏幕上的目录与系统里的申请之间，还差什么？](posts/003-catalog-and-draft.zh-CN.md) — 计划于2026年10月19日发布（Asia/Shanghai）。
 - [004 — 系统已安装，业务流程就验收了吗？](posts/004-installation-and-session-checks.zh-CN.md) — 计划发布日期：2026年10月22日（Asia/Shanghai）。
 - [005 — 封闭试点：已知什么，还有什么需要验证？](posts/005-closed-pilot-and-report-limits.zh-CN.md) — 计划发布日期：2026年10月25日（Asia/Shanghai）。
+- [006 — 有操作历史，不代表供应商已经通过核验](posts/006-action-history-and-supplier-verification.zh-CN.md) — 计划发布日期：2026年10月27日（Asia/Shanghai）。
 
 ## 有记录支持的里程碑
 

@@ -13,6 +13,7 @@
 - [003 — Каталог на экране и заявка в системе: что между ними?](posts/003-catalog-and-draft.ru.md) — плановая дата — 19 октября 2026 года (Asia/Shanghai).
 - [004 — Система установлена. Принят ли рабочий процесс?](posts/004-installation-and-session-checks.ru.md) — плановая дата — 22 октября 2026 года (Asia/Shanghai).
 - [005 — Закрытый пилот: что уже известно, а что ещё нужно проверить](posts/005-closed-pilot-and-report-limits.ru.md) — плановая дата — 25 октября 2026 года (Asia/Shanghai).
+- [006 — История действия ещё не означает, что поставщик проверен](posts/006-action-history-and-supplier-verification.ru.md) — плановая дата — 27 октября 2026 года (Asia/Shanghai).
 
 ## Подтверждённые вехи
 
