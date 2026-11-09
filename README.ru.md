@@ -15,6 +15,7 @@
 - [005 — Закрытый пилот: что уже известно, а что ещё нужно проверить](posts/005-closed-pilot-and-report-limits.ru.md) — плановая дата — 25 октября 2026 года (Asia/Shanghai).
 - [006 — История действия ещё не означает, что поставщик проверен](posts/006-action-history-and-supplier-verification.ru.md) — плановая дата — 27 октября 2026 года (Asia/Shanghai).
 - [007 — Понятный отказ PDF: объяснить причину, сохранить проверку](posts/007-clear-pdf-refusal-and-validation.ru.md) — плановая дата — 31 октября 2026 года (Asia/Shanghai).
+- [008 — Сохранение подтверждено, обновление не удалось: что повторять?](posts/008-confirmed-save-and-failed-refresh.ru.md)
 
 ## Подтверждённые вехи
 
