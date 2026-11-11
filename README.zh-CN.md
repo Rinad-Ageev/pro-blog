@@ -16,6 +16,7 @@
 - [006 — 有操作历史，不代表供应商已经通过核验](posts/006-action-history-and-supplier-verification.zh-CN.md) — 计划发布日期：2026年10月27日（Asia/Shanghai）。
 - [007 — PDF 拒绝原因更清楚，检查也应继续保留](posts/007-clear-pdf-refusal-and-validation.zh-CN.md) — 计划发布日期：2026年10月31日（Asia/Shanghai）。
 - [008 — 保存已确认，刷新却失败：该重复哪一步？](posts/008-confirmed-save-and-failed-refresh.zh-CN.md)
+- [009 — 服务器迁移了，团队就能恢复工作了吗？](posts/009-first-server-move.zh-CN.md)
 
 ## 有记录支持的里程碑
 

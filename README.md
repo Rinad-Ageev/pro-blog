@@ -16,6 +16,7 @@ I wanted to cover gaps in the warehouse, where manual controls were no longer en
 - [006 — An action history does not mean the supplier has been verified](posts/006-action-history-and-supplier-verification.en.md) — planned for 27 October 2026 (Asia/Shanghai).
 - [007 — A clearer PDF refusal should preserve the check](posts/007-clear-pdf-refusal-and-validation.en.md) — planned for 31 October 2026 (Asia/Shanghai).
 - [008 — The save is confirmed, but refresh failed: what should be repeated?](posts/008-confirmed-save-and-failed-refresh.en.md)
+- [009 — The server has moved — can the team get back to work?](posts/009-first-server-move.en.md)
 
 ## Documented milestones
 

@@ -16,6 +16,7 @@
 - [006 — История действия ещё не означает, что поставщик проверен](posts/006-action-history-and-supplier-verification.ru.md) — плановая дата — 27 октября 2026 года (Asia/Shanghai).
 - [007 — Понятный отказ PDF: объяснить причину, сохранить проверку](posts/007-clear-pdf-refusal-and-validation.ru.md) — плановая дата — 31 октября 2026 года (Asia/Shanghai).
 - [008 — Сохранение подтверждено, обновление не удалось: что повторять?](posts/008-confirmed-save-and-failed-refresh.ru.md)
+- [009 — Сервер перенесён — можно возвращаться к работе?](posts/009-first-server-move.ru.md)
 
 ## Подтверждённые вехи
 
