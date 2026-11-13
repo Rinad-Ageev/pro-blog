@@ -17,6 +17,7 @@
 - [007 — Понятный отказ PDF: объяснить причину, сохранить проверку](posts/007-clear-pdf-refusal-and-validation.ru.md) — плановая дата — 31 октября 2026 года (Asia/Shanghai).
 - [008 — Сохранение подтверждено, обновление не удалось: что повторять?](posts/008-confirmed-save-and-failed-refresh.ru.md)
 - [009 — Сервер перенесён — можно возвращаться к работе?](posts/009-first-server-move.ru.md)
+- [010 — Пять AI-ролей: кто собирает один материал?](posts/010-five-roles-one-author.ru.md)
 
 ## Подтверждённые вехи
 
