@@ -18,6 +18,7 @@
 - [008 — 保存已确认，刷新却失败：该重复哪一步？](posts/008-confirmed-save-and-failed-refresh.zh-CN.md)
 - [009 — 服务器迁移了，团队就能恢复工作了吗？](posts/009-first-server-move.zh-CN.md)
 - [010 — 五个 AI 角色：谁来整合一篇文章？](posts/010-five-roles-one-author.zh-CN.md)
+- [011 — 文件保存了，员工就能使用了吗？](posts/011-stored-file-connected-workflow.zh-CN.md) — 计划发布日期：2026年11月16日（Asia/Shanghai）。
 
 ## 有记录支持的里程碑
 

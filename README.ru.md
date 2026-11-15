@@ -18,6 +18,7 @@
 - [008 — Сохранение подтверждено, обновление не удалось: что повторять?](posts/008-confirmed-save-and-failed-refresh.ru.md)
 - [009 — Сервер перенесён — можно возвращаться к работе?](posts/009-first-server-move.ru.md)
 - [010 — Пять AI-ролей: кто собирает один материал?](posts/010-five-roles-one-author.ru.md)
+- [011 — Файл сохранён. А сотрудник сможет с ним работать?](posts/011-stored-file-connected-workflow.ru.md) — плановая дата — 16 ноября 2026 года (Asia/Shanghai).
 
 ## Подтверждённые вехи
 

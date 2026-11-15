@@ -18,6 +18,7 @@ I wanted to cover gaps in the warehouse, where manual controls were no longer en
 - [008 — The save is confirmed, but refresh failed: what should be repeated?](posts/008-confirmed-save-and-failed-refresh.en.md)
 - [009 — The server has moved — can the team get back to work?](posts/009-first-server-move.en.md)
 - [010 — Five AI roles: who assembles one article?](posts/010-five-roles-one-author.en.md)
+- [011 — The file is stored. Can an employee use it?](posts/011-stored-file-connected-workflow.en.md) — planned for 16 November 2026 (Asia/Shanghai).
 
 ## Documented milestones
 
